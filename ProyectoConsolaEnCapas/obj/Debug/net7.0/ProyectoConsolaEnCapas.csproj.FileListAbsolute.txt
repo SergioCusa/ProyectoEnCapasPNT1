@@ -1,0 +1,14 @@
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\bin\Debug\net7.0\ProyectoConsolaEnCapas.exe
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\bin\Debug\net7.0\ProyectoConsolaEnCapas.deps.json
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\bin\Debug\net7.0\ProyectoConsolaEnCapas.runtimeconfig.json
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\bin\Debug\net7.0\ProyectoConsolaEnCapas.dll
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\bin\Debug\net7.0\ProyectoConsolaEnCapas.pdb
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.AssemblyInfoInputs.cache
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.AssemblyInfo.cs
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.csproj.CoreCompileInputs.cache
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.dll
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\refint\ProyectoConsolaEnCapas.dll
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.pdb
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ProyectoConsolaEnCapas.genruntimeconfig.cache
+C:\Users\SolHP\source\repos\ProyectoConsolaEnCapas\ProyectoConsolaEnCapas\obj\Debug\net7.0\ref\ProyectoConsolaEnCapas.dll
