@@ -25,11 +25,10 @@ namespace ProyectoEnCapas.Actividades
             return alumno_Persistencia.BuscarAlumno(legajo);
         }
 
-        public bool EliminarAlumno(int legajo) {
+        public bool EliminarAlumno(int legajo)
+        {
             return alumno_Persistencia.EliminarAlumno(legajo);
         }
-
-      
 
 
     }

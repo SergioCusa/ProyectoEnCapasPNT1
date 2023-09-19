@@ -1,5 +1,7 @@
 ﻿using ProyectoEnCapas.Actividades;
 using ProyectoEnCapas.Entidades;
+using System.Net;
+
 Alumno_Actividad alumno_Actividades = new Alumno_Actividad();
 
 
@@ -54,6 +56,13 @@ void Agregar()
 {
     Console.WriteLine("Ingrese el legajo ");
     int legajo = int.Parse(Console.ReadLine());
+    Alumno? alumnoBuscado = alumno_Actividades.BuscarAlumno(legajo);
+
+    while (alumnoBuscado != null)
+    {
+        Console.WriteLine("El legajo: " + legajo + " ya existe en el sistema");
+        Agregar();
+    }
 
     Console.WriteLine("Ingrese dni: ");
     String dni = Console.ReadLine();
@@ -72,6 +81,7 @@ void Agregar()
 
     Console.WriteLine("Ingrese email: ");
     String email = Console.ReadLine();
+
 
 
     Alumno alumno = new Alumno();
@@ -93,6 +103,10 @@ void Agregar()
     {
         Console.WriteLine("alumno no agregado");
     }
+
+
+
+
     Console.ReadKey();
     main();
 }
